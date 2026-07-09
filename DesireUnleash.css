@@ -452,41 +452,6 @@ if you don't want these changed, just do not edit this part.
 the names are pretty self explanatory
 you can also edit these if you want to add effects to YOUR player image and don't want it to be on these images */
 
-img[src$="icon_den_message.png"] {
-content: url('imagelink') !important;
-width: 24px !important; }
-
-img[src$="icon_den_gift.png"] {
-content: url('imagelink') !important;
-width: 24px !important; }
-
-img[src$="icon_den_trade.png"] {
-content: url('imagelink') !important; 
-width: 24px !important; }
-
-img[src$="icon_den_wishlist.png"] {
-content: url('imagelink') !important;
-width: 24px !important; }
-
-img[src$="icon_den_viewtrade.png"] {
-content: url('imagelink') !important;
-width: 24px !important; }
-
-img[src$="icon_den_gift.png"] {
-content: url('imagelink') !important;
-width: 24px !important; }
-
-img[src$="icon_den_block.png"] {
-content: url('imagelink') !important;
-width: 24px !important; }
-
-img[src$="icon_den_friend.png"] {
-content: url('imagelink') !important;
-width: 24px !important; }
-
-img[src$="donator.png"] {
-content: url('imagelink') !important;
-width: 24px !important; }
 
 /* LION AND USER AVATAR OPACITY */
    
@@ -515,7 +480,7 @@ input {background: red !important;}
 textarea, select, button.button, a.btn.btn-default.button {background: white !important;} */
  
 button.button, input, a.btn.btn-default.button {
-background: #8d0404 !important;
+background: #HEX !important;
 border: rgba(41, 46, 52, 1) !important;
 border-radius: 7px !important;
 color: #ffffff !important;
