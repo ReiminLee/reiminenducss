@@ -296,7 +296,7 @@ color: #ffffff !important; }
 .s-chat-sidebar #fraChatChannelMenu,
 button.channelSwitcher, button.channelSwitcher.active {
     background: #707ca9 !important;
-color: #HEX !important;	
+color: #FFFFFF !important;	
 border: none !important;
 border-radius: 0px !important;
 box-shadow: none !important; }
@@ -323,7 +323,7 @@ not touch the even/odd specifications */
 
 .s-chat-message {
 background: # !important;
-color: #HEX !important;
+color: #FFFFFF !important;
 border-bottom: #HEX !important; }
 
 .s-chat-message:nth-child(even) {
