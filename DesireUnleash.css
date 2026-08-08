@@ -203,7 +203,7 @@ border-radius: 0px !important;
 color: #ffffff !important;}
 	
 .comment {     
-background: #HEX !important;
+background:  !important;
 border: none !important;
 border-bottom: none !important;
 border-radius: 0px !important;
@@ -251,7 +251,7 @@ to the colors you put here.
 Bars will also inherit the border-radius value from this one, so it's
 not needed to specify border-radius for all bars. */
 .progress-bar {
-background: #8d0404 !important; 
+background: #8ba1d1 !important; 
 border-radius: 0px !important; }
 
 /* ENERGY */ .progress-bar-warning { 
@@ -285,7 +285,7 @@ width: 24px !important; }
 
 button#label_currentChannel {
 border: none !important;
-background: rgba(41, 46, 52, 1) !important; }
+background: rgba(139, 161, 209, 1)) !important; }
 
 div#chatMessageContainer {
 border: none !important; }
@@ -322,7 +322,7 @@ border: none !important; }
 not touch the even/odd specifications */ 
 
 .s-chat-message {
-background: #HEX !important;
+background: # !important;
 color: #HEX !important;
 border-bottom: #HEX !important; }
 
@@ -359,7 +359,7 @@ div.left controls BOTH the dynasty, achievements, showcase, beetle book AND
 view breeding requests, view user log, and view attack history buttons */
  
 .feature {
-background: rgba(198, 217, 239, 0.75) !important;
+background: rgba(41, 46, 52, 0.75) !important;
 color: #FFFFFF !important;
 border: 3px double #HEX !important;
 border-radius: 0px !important;  }
@@ -434,7 +434,7 @@ just don't use apostraphes (') in the actual text, that messes with the code
 /* CUSTOM KING TITLE - AFTER */
  
 #about > tbody > tr:nth-child(1) > td > div::after {
-    content:', Secretly an Engene';
+    content:', the Engene';
     font-size:17px;
     
 }
@@ -442,7 +442,7 @@ just don't use apostraphes (') in the actual text, that messes with the code
 /* CUSTOM KING TITLE - BEFORE */
  
 #about > tbody > tr:nth-child(1) > td > div::before {
-    content:'Lucifer';
+    content:'Diva';
     font-size:17px;
     
 }
@@ -480,7 +480,7 @@ input {background: red !important;}
 textarea, select, button.button, a.btn.btn-default.button {background: white !important;} */
  
 button.button, input, a.btn.btn-default.button {
-background: #HEX !important;
+background: #707ca9 !important;
 border: rgba(41, 46, 52, 1) !important;
 border-radius: 7px !important;
 color: #ffffff !important;
@@ -490,7 +490,7 @@ text-shadow: none !important; }
  
 .cave-grid,
 .mound-grid {
-background: rgba(198, 217, 239, 0.75) !important;
+background: rgba(139, 161, 209, 0.75) !important;
 color: #HEX !important;
 border: none !important;
 border-radius: 0px !important; }
